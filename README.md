@@ -36,8 +36,10 @@ you ask.
 Rebind carries the release file of the maker, not changed, and hands it to the
 installer of Android. Android asks you first. Rebind downloads nothing.
 
-- [CLauncher](https://github.com/mlm-games/CLauncher) - A minimal text home
-  screen. GPL-3.0. *In Rebind.*
+- [inkOS](https://github.com/gezimos/inkOS) - A text home screen made for
+  e-ink. GPL-3.0. *In Rebind.*
+- [ThinkLauncher](https://github.com/MatiasDesuu/ThinkLauncher) - A minimal
+  home screen made for e-ink. GPL-3.0. *In Rebind.*
 - [Whisper](https://github.com/woheller69/whisperIME) - Speech to text on the
   device, with no cloud. It does the listening for the Voice typing action of
   Rebind. MIT. Also on [F-Droid](https://f-droid.org/packages/org.woheller69.whisper/).
@@ -45,6 +47,8 @@ installer of Android. Android asks you first. Rebind downloads nothing.
 
 ## Works well with Rebind
 
+- [CLauncher](https://github.com/mlm-games/CLauncher) - A minimal text home
+  screen. GPL-3.0. Rebind carried it up to 0.0.12.
 - [Shizuku](https://github.com/RikkaApps/Shizuku) - Gives an app a shell with
   no root and no computer. With it, Rebind gets every press of the Power
   button and can switch the navigation bar and gestures. Ink Recents and Ink
