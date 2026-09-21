@@ -29,7 +29,12 @@ you ask.
   app. Swipe down closes all the others. GPL-3.0. *In Rebind.*
 - [Ink Dim](https://github.com/equwal/ink-dim) - Tap to set the frontlight of
   a Viwoods AiPaper reader below the lowest level of the system. Tap again to
-  go back. Needs Shizuku. GPL-3.0.
+  go back. Needs Shizuku. GPL-3.0. *In Rebind.*
+
+- [Ink Update](https://github.com/equwal/ink-update) - Tells you when Rebind
+  or an extension has a new version. It looks on F-Droid, then Google Play,
+  then GitHub. It holds the internet permission, so that Rebind needs none.
+  GPL-3.0. *In Rebind.*
 
 ## Apps of other makers that Rebind carries
 
@@ -66,6 +71,7 @@ none of this.
 | Ink Dim | `dev.equwal.inkdim.TOGGLE` | Lowest light, or back to the system level |
 | Ink Dim | `dev.equwal.inkdim.ON` | Lowest light |
 | Ink Dim | `dev.equwal.inkdim.OFF` | Back to the system level |
+| Ink Update | `dev.equwal.inkupdate.CHECK` | Opens the list and looks for new versions |
 
 ## Add an extension
 
